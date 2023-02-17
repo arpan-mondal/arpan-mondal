@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arpan Mondal</h1>
-<h3 align="center">Hello 👋🏻, I'm Arpan Mondal, Founder MegaVerse who is interested in DevOps Engineer, Developer Relations and Product Management. Preferred pronouns: He/Him Currently, I'm working as a Smart Contract Developer to work with industry experts in domains : BlockChain, DevOps and Back-End Development 👩🏻‍💻 . I have worked on projects that provides a scalable, performant, consistent and rich experience to users. I primarily deal with technologies like ⚡ KUBERNETES, DOCKER, SOLIDITY, VYPER, GCP, AWS. I am open source contributor having 5+ production level contributions in the open-source projects. I have strong knowledge in Data structures and algorithms using Java, Computer networks, operating systems, DBMS , System Design. I am a Google Cloud Scolar and Google Cloud Innovator. I like to collaborate with people from different backgrounds ✍🏻.</h3>
+<h3 align="center">Hello 👋🏻, I'm Arpan Mondal, Founder MegaVerse who is interested in DevOps Engineer, Developer Relations and Product Management. 
+  Preferred pronouns: He/Him Currently, I'm working as a Technical Writer to work with industry experts in domains : BlockChain, DevOps and Back-End Development 👩🏻‍💻.
+  I have worked on projects that provides a scalable, performant, consistent and rich experience to users. 
+  I primarily deal with technologies like ⚡ KUBERNETES, DOCKER, SOLIDITY, VYPER, GCP, AWS.
+  I am open source contributor having 5+ production level contributions in the open-source projects. I have strong knowledge in Data structures and algorithms using Java, Computer networks, operating systems, DBMS , System Design. 
+  I am a Google Cloud Scolar and Google Cloud Innovator also Postman Student Expert. 
+  I like to collaborate with people from different backgrounds ✍🏻.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpan-mondal&label=Profile%20views&color=0e75b6&style=flat" alt="arpan-mondal" /> </p>
 
