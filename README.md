@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpan Mondal</h1>
-<h3 align="center">Hello 👋🏻, I'm Arpan Mondal, Founder MegaVerse who is interested in DevOps Engineer, Developer Relations and Product Management. 
+<h3 align="center">Hello 👋🏻, I'm Arpan Mondal, Founder MegaVerse who is interested in DevOps Engineer, Developer Relations, and Smart Contract Developer. 
   Preferred pronouns: He/Him Currently, I'm working as a Technical Writer to work with industry experts in domains : BlockChain, DevOps and Back-End Development 👩🏻‍💻.
   I have worked on projects that provides a scalable, performant, consistent and rich experience to users. 
   I primarily deal with technologies like ⚡ KUBERNETES, DOCKER, SOLIDITY, VYPER, GCP, AWS.
@@ -21,7 +21,9 @@
 
 - 👨‍💻 All of my projects are available at [https://arpanmondal.carrd.co/](https://arpanmondal.carrd.co/)
 
-- 📝 I regularly write articles on [https://arpanunzip.hashnode.dev/](https://arpanunzip.hashnode.dev/)
+- 📝 I regularly write articles on [HASHNODE](https://arpanunzip.hashnode.dev/)
+
+-  and write atricle on [MEDIUM](https://medium.com/@accesstoarpan)
 
 - 💬 Ask me about **BlockChain and DevOps.**
 
