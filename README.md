@@ -2,7 +2,7 @@
 <h3 align="center">Hello 👋🏻, I'm Arpan Mondal, Founder MegaVerse who is interested in DevOps Engineer, Developer Relations, and Smart Contract Developer. 
   Preferred pronouns: He/Him Currently, I'm working as a Technical Writer to work with industry experts in domains : BlockChain, DevOps and Back-End Development 👩🏻‍💻.
   I have worked on projects that provides a scalable, performant, consistent and rich experience to users. 
-  I primarily deal with technologies like ⚡ KUBERNETES, DOCKER, SOLIDITY, VYPER, GCP, AWS.
+  I primarily deal with technologies like ⚡ KUBERNETES, JENKINS, ANSIBLE, CI/CD, DOCKER, SOLIDITY, VYPER, GCP, AWS.
   I am open source contributor having 5+ production level contributions in the open-source projects. I have strong knowledge in Data structures and algorithms using Java, Computer networks, operating systems, DBMS , System Design. 
   I am a Google Cloud Scolar and Google Cloud Innovator also Postman Student Expert. 
   I like to collaborate with people from different backgrounds ✍🏻.</h3>
