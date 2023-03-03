@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/arpan_megaverse" target="blank"><img src="https://img.shields.io/twitter/follow/arpan_megaverse?logo=twitter&style=for-the-badge" alt="arpan_megaverse" /></a> </p>
 
-- 🔭 I’m currently working on [Block Magnates](https://blockmagnates.com/)
+- 🔭 I’m currently working in [FiBit Pro](https://fibitpro.com/)
 
 - 🌱 I’m currently learning **Terraform.**
 
