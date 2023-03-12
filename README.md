@@ -23,7 +23,7 @@
 
 - 📝 I regularly write articles on [HASHNODE](https://arpanunzip.hashnode.dev/)
 
--  and write atricle on [MEDIUM](https://medium.com/@accesstoarpan)
+  and write article on [MEDIUM](https://medium.com/@accesstoarpan)
 
 - 💬 Ask me about **BlockChain and DevOps.**
 
@@ -31,7 +31,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/arpan-mondal-816569183/](https://www.linkedin.com/in/arpan-mondal-816569183/)
 
-- ⚡ Fun fact **I cant touch my elbow with my tongue.**
+- ⚡ Fun fact **I can't touch my elbow with my tongue.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
