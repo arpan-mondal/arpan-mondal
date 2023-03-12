@@ -21,9 +21,7 @@
 
 - 👨‍💻 All of my projects are available at [https://arpanmondal.carrd.co/](https://arpanmondal.carrd.co/)
 
-- 📝 I regularly write articles on [HASHNODE](https://arpanunzip.hashnode.dev/)
-
-  and write article on [MEDIUM](https://medium.com/@accesstoarpan)
+- 📝 I regularly write articles on [HASHNODE](https://arpanunzip.hashnode.dev/) and write article on [MEDIUM](https://medium.com/@accesstoarpan)
 
 - 💬 Ask me about **BlockChain and DevOps.**
 
